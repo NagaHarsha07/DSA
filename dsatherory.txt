@@ -1,0 +1,5 @@
+PATTERN PRINTING
+
+* run the outer loop,count the number of lines
+* for the inner loop,focus on the coloumns,connebt them some how to the rows
+* print the *
